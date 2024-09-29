@@ -1,0 +1,6 @@
+*__pycache__
+final_images
+input_images
+mask_images
+output_images
+trained_checkpoint
